@@ -11,4 +11,3 @@ python -m pip install --upgrade pip
 python -m pip install black flake8
 npm install -g prettier eslint
 
-echo "PostCreate.sh run"
