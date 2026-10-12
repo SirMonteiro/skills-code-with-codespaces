@@ -29,7 +29,6 @@
       "settings": {
         "workbench.colorTheme": "Catppuccin Mocha",
         "workbench.iconTheme": "catppuccin-mocha",
-        "editor.formatOnSave": true,
         "editor.defaultFormatter": "esbenp.prettier-vscode",
         "python.defaultInterpreterPath": "/usr/local/python/current/bin/python",
         "[python]": {
