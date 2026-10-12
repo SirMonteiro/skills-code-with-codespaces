@@ -1,0 +1,13 @@
+{
+  "recommendations": [
+    "Catppuccin.catppuccin-vsc",
+    "Catppuccin.catppuccin-vsc-icons",
+    "ms-python.python",
+    "ms-python.vscode-pylance",
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "EditorConfig.EditorConfig",
+    "eamodio.gitlens",
+    "GitHub.vscode-pull-request-github"
+  ]
+}
